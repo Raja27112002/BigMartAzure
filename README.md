@@ -34,4 +34,7 @@ My Azure app sevices and resource group and CICD pipeline are mentioned in the s
 
 WebApp Link:https://bigmart1.azurewebsites.net/
 
+I have Explained all those things in a Video Please watch it!
+
+https://www.youtube.com/watch?v=S9f-vuWN0hQ
 
