@@ -18,4 +18,12 @@ Deployment Process
 * Then I created my Web App
 * And I used Deployment center to deploy my web app that present in github using CICD Pipeline
 * I have connected my github account and then selected Organization, Repository and Branch that I want to deploy
-* By clicking save my webapp started deploying and deployment finished in 
+* By clicking save my webapp started deploying and deployment finished in 5 mins( I have checked the progress in github Actions)
+
+
+Azure Services Used
+The service that I used for this project is (Azure App Services) A Service used to deploy web/mobile Applications
+<p align="center">
+  <img src="C:\Users\Raja.Balasubramani\Pictures\Screenshots\Screenshot (265).png" width="350" title="hover text">
+</p>
+
