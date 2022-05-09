@@ -24,6 +24,6 @@ Deployment Process
 Azure Services Used
 The service that I used for this project is (Azure App Services) A Service used to deploy web/mobile Applications
 <p align="center">
-  <img src="C:\Users\Raja.Balasubramani\Pictures\Screenshots\Screenshot (265).png" width="350" title="hover text">
+  <img src="Screenshot (265).png" width="350" title="hover text">
 </p>
 
